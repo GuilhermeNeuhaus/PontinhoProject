@@ -304,8 +304,7 @@ export default {
 }
 
 .input-custom {
-  font-size: 1.8rem;
-  font-weight: bold;
+  font-size: 2rem;
   padding: 12px 20px;
   border-radius: 15px;
   box-shadow: 0 2px 8px rgba(40, 167, 69, 0.1);
@@ -319,8 +318,7 @@ export default {
 }
 
 .input-custom-escape {
-  font-size: 1.8rem;
-  font-weight: bold;
+  font-size: 2rem;
   padding: 12px 20px;
   border-radius: 15px;
   box-shadow: 0 2px 8px rgba(40, 167, 69, 0.1);
